@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f828396-484a-425e-9da2-54afc89129f1" name="Default Changelist" comment="" />
+    <list default="true" id="0f828396-484a-425e-9da2-54afc89129f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,12 +16,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="b83c8ab0-36c4-42e5-832c-e1dbe9a58e9c">
     <option name="files">
       <option value="mnist_classifier.ipynb" />
     </option>
   </component>
   <component name="ProjectId" id="1ZQpG4eX9NwETFMPOngdFDY2o2J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -46,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584781072131</updated>
-      <workItem from="1584781073527" duration="2053000" />
+      <workItem from="1584781073527" duration="2129000" />
     </task>
     <servers />
   </component>
