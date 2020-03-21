@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f828396-484a-425e-9da2-54afc89129f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mnist_classifier_cnn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +22,8 @@
   </component>
   <component name="JupyterTrust" id="b83c8ab0-36c4-42e5-832c-e1dbe9a58e9c">
     <option name="files">
-      <option value="mnist_classifier.ipynb" />
+      <option value="mnist_classifier_cnn.ipynb" />
+      <option value="mnist_classifier_flat.ipynb" />
     </option>
   </component>
   <component name="ProjectId" id="1ZQpG4eX9NwETFMPOngdFDY2o2J" />
@@ -52,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584781072131</updated>
-      <workItem from="1584781073527" duration="2129000" />
+      <workItem from="1584781073527" duration="4588000" />
     </task>
     <servers />
   </component>
@@ -60,6 +62,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="280" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1584789595348">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="280" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584789595348" />
     <state x="221" y="48" key="SettingsEditor" timestamp="1584783183029">
       <screen x="0" y="23" width="1440" height="773" />
     </state>
