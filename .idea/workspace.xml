@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f828396-484a-425e-9da2-54afc89129f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mnist_fashion.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584781072131</updated>
       <workItem from="1584781073527" duration="6565000" />
-      <workItem from="1584795143209" duration="1034000" />
+      <workItem from="1584795143209" duration="1344000" />
     </task>
     <servers />
   </component>
